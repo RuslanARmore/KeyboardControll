@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KeyboardControll_Tests' do
+  pod 'KeyboardControll', :path => '../'
+  
+  
+end
