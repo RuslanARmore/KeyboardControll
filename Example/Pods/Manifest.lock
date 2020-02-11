@@ -1,0 +1,16 @@
+PODS:
+  - KeyboardControll (0.1.0)
+
+DEPENDENCIES:
+  - KeyboardControll (from `../`)
+
+EXTERNAL SOURCES:
+  KeyboardControll:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeyboardControll: b2c00a69791e1338ea3d2a66181c787fb1d5bbd4
+
+PODFILE CHECKSUM: 83aa4fcad993bde014b4ce3f8e00cb2b47a3621f
+
+COCOAPODS: 1.8.4
